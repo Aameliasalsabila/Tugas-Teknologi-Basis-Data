@@ -37,8 +37,5 @@ python save_images.py
 - `pickle` dapat digunakan untuk menyimpan data, tetapi memiliki risiko keamanan karena dapat mengeksekusi kode arbitrer saat memuat objek yang tidak tepercaya.
 - Pemilihan metode penyimpanan tergantung pada ukuran dataset dan kecepatan akses yang dibutuhkan.
 
-## 📜 Lisensi
-Repositori ini tersedia di bawah lisensi MIT. Silakan gunakan dan modifikasi sesuai kebutuhan.
-
 ---
 ✨ Selamat bereksperimen dengan metode penyimpanan gambar! 🚀
